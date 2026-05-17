@@ -1,0 +1,9 @@
+{
+  "name": "docker-multi-stage-build",
+  "version": "1.0.0",
+  "description": "DevOps Docker Multi-Stage Build Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
